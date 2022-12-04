@@ -2,7 +2,7 @@
 
 1.  Download the script by running the following command:
 
-`wget https://raw.githubusercontent.com/username/repository/branch/server.sh` 
+`wget https://raw.githubusercontent.com/Kame03/repository/branch/mame.sh` 
 
 2.  Make the script executable by running the following command:
 
