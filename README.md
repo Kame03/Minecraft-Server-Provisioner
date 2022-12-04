@@ -19,7 +19,7 @@
 1.  Fork the repository on GitHub.
 2.  Clone the forked repository to your local machine.
 
-`git clone https://github.com/username/repository.git` 
+`git clone https://github.com/Kame03/Minecraft-Server-Provisioner.git` 
 
 3.  Make your changes to the script.
     
